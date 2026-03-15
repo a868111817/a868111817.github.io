@@ -1,5 +1,5 @@
 # 揭秘 Claude Code：為什麼新一代 AI 編碼代理人終於「好用了」？
-> **作者：** 邱祺閔  
+> **作者：** mimi
 > **閱讀時間：** 約 4 分鐘  
 > **來源：** [How Claude Code Works — PromptLayer](https://docs.promptlayer.com/why-promptlayer/how-it-works)
 在 AI 工程領域，Coding Agents 正經歷一場從「玩具」到「工具」的革命。PromptLayer 的創辦人 Jared Zoneraich 在 AI Engineer 演講中深入剖析了 Claude Code 的核心架構，解釋了為什麼這類工具在近期取得了突破性進展。
